@@ -33,3 +33,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+package.json
+package-lock.json
+tailwind.config.js
+yarn.lock
+package-lock.json
+package.json
+*.json
+next.config.js
