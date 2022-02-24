@@ -41,3 +41,8 @@ package-lock.json
 package.json
 *.json
 next.config.js
+public/favicon.ico
+postcss.config.js
+package.json
+package-lock.json
+next.config.js
