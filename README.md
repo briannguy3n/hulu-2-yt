@@ -2,4 +2,4 @@
 
 A Hulu streaming app clone built with NextJS and Tailwind.
 
-Live app: [here](https://clone-77e79.web.app/)
+Live app: [here](https://hulu-2-yt-kcixwu4bo-briannguy3n.vercel.app/)
